@@ -4,3 +4,5 @@ __pycache__
 .mypy_cache
 **.zip
 **.DS_Store
+exercises/ex02_wordle.py
+exercises/ex01_tea_party.py
